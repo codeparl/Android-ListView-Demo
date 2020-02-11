@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListView Demo </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="languageList">
+        <item >HTML5</item>
+        <item >CSS3</item>
+        <item >JavaScript</item>
+        <item >PHP</item>
+    </string-array>
+    <string name="langDescription">Language Description</string>
+
+</resources>
